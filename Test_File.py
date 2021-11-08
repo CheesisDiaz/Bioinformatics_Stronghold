@@ -1,1 +1,4 @@
-print("I love you you testy boy")
+x =['Isis', 'is', 'my', 'love']
+
+for i in x:
+    print(i)
